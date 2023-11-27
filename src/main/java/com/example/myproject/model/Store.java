@@ -1,4 +1,4 @@
-package com.example.myproject;
+package com.example.myproject.model;
 
 import javax.persistence.*;
 import java.util.ArrayList;

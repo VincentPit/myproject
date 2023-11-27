@@ -1,9 +1,5 @@
-package com.example;
+package com.example.myproject;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

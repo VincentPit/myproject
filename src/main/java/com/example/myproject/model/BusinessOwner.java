@@ -1,4 +1,4 @@
-package com.example.myproject;
+package com.example.myproject.model;
 import javax.persistence.Entity;
 
 @Entity
@@ -9,6 +9,7 @@ public class BusinessOwner extends User {
 
     public void set_discount(String name, double discount_rate) {
         // Logic to set a discount for a product
+
     }
 
     // Other fields and methods
