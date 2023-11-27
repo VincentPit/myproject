@@ -1,6 +1,6 @@
 package com.example.myproject;
 
-
+//test2
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
