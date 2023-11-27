@@ -24,5 +24,5 @@ public class Store {
         this.transactions = new ArrayList<>();
         this.inventory = new ArrayList<>();
     }
-
+//test
 }
