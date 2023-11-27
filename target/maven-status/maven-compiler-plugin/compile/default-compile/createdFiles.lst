@@ -1,0 +1,9 @@
+com/example/myproject/model/User.class
+com/example/myproject/model/SalesStaff.class
+com/example/myproject/model/Merchandise.class
+com/example/myproject/model/Transaction.class
+com/example/myproject/model/Store.class
+com/example/myproject/model/BusinessOwner.class
+com/example/myproject/model/InventoryManager.class
+com/example/myproject/model/H2DatabaseServer.class
+com/example/myproject/App.class

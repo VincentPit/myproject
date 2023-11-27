@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "git.ignoreLimitWarning": true,
+    
+}
+
+//"java.project.referencedLibraries": [
+    //    "myproject/src/main/java/com/example/myproject/h2/bin/h2-2.1.214.jar"
+    //]
