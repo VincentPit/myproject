@@ -1,10 +1,10 @@
 package com.example.myproject;
 
 import com.example.myproject.model.H2DatabaseServer;
-import com.example.myproject.model.User;
+import com.example.myproject.model.*;
 import java.util.concurrent.CountDownLatch;
 
-public class App {
+public class App_Database {
     public static void main(String[] args) {
         CountDownLatch latch = new CountDownLatch(1);
 
